@@ -1,1 +1,11 @@
 C:\GIT\Form6\bin\Debug\Form6.exe.config
+C:\GIT\Form6\obj\Debug\Form6.csprojResolveAssemblyReference.cache
+C:\GIT\Form6\obj\Debug\Form6.Properties.Resources.resources
+C:\GIT\Form6\obj\Debug\Form6.csproj.GenerateResource.Cache
+C:\GIT\Form6\obj\Debug\Form6.exe.licenses
+C:\GIT\Form6\bin\Debug\Form6.exe
+C:\GIT\Form6\bin\Debug\Form6.pdb
+C:\GIT\Form6\obj\Debug\Form6.MainForm.resources
+C:\GIT\Form6\obj\Debug\Form6.exe
+C:\GIT\Form6\obj\Debug\Form6.pdb
+C:\GIT\Form6\obj\Debug\Form6.LoginForm.resources
